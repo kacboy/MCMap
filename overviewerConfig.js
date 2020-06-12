@@ -29,7 +29,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": true,
-        "cacheTag": "1591903258",
+        "cacheTag": "1591944166",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -44,9 +44,9 @@ var overviewerConfig = {
     "tilesets": [
         {
             "name": "guiness",
-            "zoomLevels": 8,
+            "zoomLevels": 9,
             "defaultZoom": 1,
-            "maxZoom": 8,
+            "maxZoom": 9,
             "path": "normalrender",
             "base": "",
             "bgcolor": "#1a1a1a",
@@ -70,7 +70,7 @@ var overviewerConfig = {
             "north_direction": 0
         },
         {
-            "name": "guiness-nether",
+            "name": "guiness",
             "zoomLevels": 6,
             "defaultZoom": 1,
             "maxZoom": 6,
@@ -93,7 +93,7 @@ var overviewerConfig = {
             "north_direction": 0
         },
         {
-            "name": "guiness-end",
+            "name": "guiness",
             "zoomLevels": 8,
             "defaultZoom": 1,
             "maxZoom": 8,

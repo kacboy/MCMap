@@ -1,5 +1,5 @@
 var markersDB={
-  "Bases1a73_9b5b": {
+  "Bases4a73_1028": {
     "created": false,
     "name": "Bases",
     "raw": [
@@ -18,15 +18,15 @@ var markersDB={
         "z": -423
       },
       {
-        "hovertext": "Mine Pyramid\n",
-        "text": "Mine Pyramid\n",
+        "hovertext": "Pyramid\n",
+        "text": "Pyramid\n",
         "x": -212,
         "y": 88,
         "z": 13
       }
     ]
   },
-  "Buildse596_9b5b": {
+  "Buildsb596_1028": {
     "created": false,
     "name": "Builds",
     "raw": [
@@ -38,8 +38,8 @@ var markersDB={
         "z": -183
       },
       {
-        "hovertext": "BBrC\n",
-        "text": "BBrC\n",
+        "hovertext": "BBT\n",
+        "text": "BBT\n",
         "x": -73,
         "y": 100,
         "z": -245
@@ -52,15 +52,15 @@ var markersDB={
         "z": -189
       },
       {
-        "hovertext": "Apartment\n",
-        "text": "Apartment\n",
+        "hovertext": "High Rise\n",
+        "text": "High Rise\n",
         "x": -100,
         "y": 165,
         "z": -108
       },
       {
-        "hovertext": "Modern Home II\n",
-        "text": "Modern Home II\n",
+        "hovertext": "Modern Home\n",
+        "text": "Modern Home\n",
         "x": -273,
         "y": 86,
         "z": -73
@@ -74,7 +74,7 @@ var markersDB={
       }
     ]
   },
-  "Townse585_9b5b": {
+  "Townsb585_1028": {
     "created": false,
     "name": "Towns",
     "raw": [
@@ -86,8 +86,15 @@ var markersDB={
         "z": -261
       },
       {
-        "hovertext": "Waterfront Village\n",
-        "text": "Waterfront Village\n",
+        "hovertext": "Savanna Village\n",
+        "text": "Savanna Village\n",
+        "x": -179,
+        "y": 74,
+        "z": -2789
+      },
+      {
+        "hovertext": "Fort Fishervillagerman\n",
+        "text": "Fort Fishervillagerman\n",
         "x": 1309,
         "y": 64,
         "z": -1870
