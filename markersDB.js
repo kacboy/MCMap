@@ -1,5 +1,5 @@
 var markersDB={
-  "Bases4a73_1028": {
+  "Bases3c51_f227": {
     "created": false,
     "name": "Bases",
     "raw": [
@@ -18,6 +18,20 @@ var markersDB={
         "z": -423
       },
       {
+        "hovertext": "Pagoda Cabin\n",
+        "text": "Pagoda Cabin\n",
+        "x": -693,
+        "y": 83,
+        "z": -343
+      },
+      {
+        "hovertext": "End Stronghold\n",
+        "text": "End Stronghold\n",
+        "x": 117,
+        "y": 63,
+        "z": -2218
+      },
+      {
         "hovertext": "Pyramid\n",
         "text": "Pyramid\n",
         "x": -212,
@@ -26,7 +40,7 @@ var markersDB={
       }
     ]
   },
-  "Buildsb596_1028": {
+  "Buildsc3b8_f227": {
     "created": false,
     "name": "Builds",
     "raw": [
@@ -38,11 +52,32 @@ var markersDB={
         "z": -183
       },
       {
+        "hovertext": "Squid Farm\n",
+        "text": "Squid Farm\n",
+        "x": -341,
+        "y": 64,
+        "z": -231
+      },
+      {
+        "hovertext": "The Pit\n",
+        "text": "The Pit\n",
+        "x": -316,
+        "y": 63,
+        "z": -320
+      },
+      {
         "hovertext": "BBT\n",
         "text": "BBT\n",
         "x": -73,
         "y": 100,
         "z": -245
+      },
+      {
+        "hovertext": "Library\n",
+        "text": "Library\n",
+        "x": -104,
+        "y": 71,
+        "z": -35
       },
       {
         "hovertext": "Floating Island\n",
@@ -74,7 +109,7 @@ var markersDB={
       }
     ]
   },
-  "Townsb585_1028": {
+  "Townsc3a7_f227": {
     "created": false,
     "name": "Towns",
     "raw": [
