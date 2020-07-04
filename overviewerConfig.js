@@ -23,11 +23,13 @@ var overviewerConfig = {
         "LOWERRIGHT": 2
     },
     "worlds": [
-        "guiness - overworld"
+        "guiness - overworld",
+        "guiness-nether - nether",
+        "guiness-end - end"
     ],
     "map": {
         "debug": true,
-        "cacheTag": "1593132793",
+        "cacheTag": "1593828839",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -49,7 +51,7 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "guiness - overworld",
-            "last_rendertime": 1593113743,
+            "last_rendertime": 1593827139,
             "imgextension": "jpg",
             "isOverlay": false,
             "poititle": "Markers",
@@ -65,6 +67,52 @@ var overviewerConfig = {
                 96,
                 -190
             ],
+            "north_direction": 0
+        },
+        {
+            "name": "guiness",
+            "zoomLevels": 6,
+            "defaultZoom": 1,
+            "maxZoom": 6,
+            "path": "netherrender",
+            "base": "",
+            "bgcolor": "#1a1a1a",
+            "world": "guiness-nether - nether",
+            "last_rendertime": 1593826557,
+            "imgextension": "jpg",
+            "isOverlay": false,
+            "poititle": "Markers",
+            "showlocationmarker": true,
+            "center": [
+                -167,
+                82,
+                -190
+            ],
+            "minZoom": 0,
+            "spawn": false,
+            "north_direction": 0
+        },
+        {
+            "name": "guiness",
+            "zoomLevels": 8,
+            "defaultZoom": 1,
+            "maxZoom": 8,
+            "path": "endrender",
+            "base": "",
+            "bgcolor": "#1a1a1a",
+            "world": "guiness-end - end",
+            "last_rendertime": 1593826557,
+            "imgextension": "jpg",
+            "isOverlay": false,
+            "poititle": "Markers",
+            "showlocationmarker": true,
+            "center": [
+                -167,
+                256,
+                -190
+            ],
+            "minZoom": 0,
+            "spawn": false,
             "north_direction": 0
         }
     ]
