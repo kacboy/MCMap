@@ -1,5 +1,5 @@
 var markersDB={
-  "Bases5c51_886a": {
+  "Bases0f51_c400": {
     "created": false,
     "name": "Bases",
     "raw": [
@@ -40,7 +40,7 @@ var markersDB={
       }
     ]
   },
-  "Buildsa3b8_886a": {
+  "Buildsf0b8_c400": {
     "created": false,
     "name": "Builds",
     "raw": [
@@ -109,7 +109,7 @@ var markersDB={
       }
     ]
   },
-  "Townsa3a7_886a": {
+  "Townsf0a7_c400": {
     "created": false,
     "name": "Towns",
     "raw": [
@@ -133,6 +133,13 @@ var markersDB={
         "x": 1309,
         "y": 64,
         "z": -1870
+      },
+      {
+        "hovertext": "Holy Rosary Cathedral\n",
+        "text": "Holy Rosary Cathedral\n",
+        "x": -720,
+        "y": 80,
+        "z": 230
       }
     ]
   }

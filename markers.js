@@ -4,21 +4,21 @@ var markers={
       "checked": false,
       "createInfoWindow": true,
       "displayName": "Bases",
-      "groupName": "Bases5c51_886a",
+      "groupName": "Bases0f51_c400",
       "icon": "icons/marker_tower_red.png"
     },
     {
       "checked": false,
       "createInfoWindow": true,
       "displayName": "Towns",
-      "groupName": "Townsa3a7_886a",
+      "groupName": "Townsf0a7_c400",
       "icon": "icons/marker_town_red.png"
     },
     {
       "checked": false,
       "createInfoWindow": true,
       "displayName": "Builds",
-      "groupName": "Buildsa3b8_886a",
+      "groupName": "Buildsf0b8_c400",
       "icon": "icons/marker_factory.png"
     }
   ]
