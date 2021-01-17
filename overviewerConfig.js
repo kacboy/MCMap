@@ -29,7 +29,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": true,
-        "cacheTag": "1605380285",
+        "cacheTag": "1610922853",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -43,15 +43,15 @@ var overviewerConfig = {
     },
     "tilesets": [
         {
-            "name": "guiness",
+            "name": "angle 1",
             "zoomLevels": 9,
             "defaultZoom": 1,
             "maxZoom": 9,
-            "path": "normalrender",
+            "path": "normalrender1",
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "guiness - overworld",
-            "last_rendertime": 1605378122,
+            "last_rendertime": 1610915529,
             "imgextension": "jpg",
             "isOverlay": false,
             "poititle": "Markers",
@@ -70,7 +70,34 @@ var overviewerConfig = {
             "north_direction": 0
         },
         {
-            "name": "guiness",
+            "name": "angle 2",
+            "zoomLevels": 9,
+            "defaultZoom": 1,
+            "maxZoom": 9,
+            "path": "normalrender2",
+            "base": "",
+            "bgcolor": "#1a1a1a",
+            "world": "guiness - overworld",
+            "last_rendertime": 1610915529,
+            "imgextension": "jpg",
+            "isOverlay": false,
+            "poititle": "Markers",
+            "showlocationmarker": true,
+            "center": [
+                -167,
+                96,
+                -190
+            ],
+            "minZoom": 0,
+            "spawn": [
+                -167,
+                96,
+                -190
+            ],
+            "north_direction": 3
+        },
+        {
+            "name": "angle 1",
             "zoomLevels": 6,
             "defaultZoom": 1,
             "maxZoom": 6,
@@ -78,7 +105,7 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "guiness-nether - nether",
-            "last_rendertime": 1605377522,
+            "last_rendertime": 1610915529,
             "imgextension": "jpg",
             "isOverlay": false,
             "poititle": "Markers",
@@ -93,7 +120,7 @@ var overviewerConfig = {
             "north_direction": 0
         },
         {
-            "name": "guiness",
+            "name": "angle 1",
             "zoomLevels": 8,
             "defaultZoom": 1,
             "maxZoom": 8,
@@ -101,7 +128,7 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "guiness-end - end",
-            "last_rendertime": 1605057422,
+            "last_rendertime": 1610396528,
             "imgextension": "jpg",
             "isOverlay": false,
             "poititle": "Markers",
