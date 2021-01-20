@@ -11,8 +11,8 @@ var markersDB={
         "z": -91
       },
       {
-        "hovertext": "BBC\n",
-        "text": "BBC\n",
+        "hovertext": "BBC 1\n",
+        "text": "BBC 1\n",
         "x": -203,
         "y": 100,
         "z": -423
@@ -52,8 +52,8 @@ var markersDB={
         "z": -91
       },
       {
-        "hovertext": "BBC\n",
-        "text": "BBC\n",
+        "hovertext": "BBC 1\n",
+        "text": "BBC 1\n",
         "x": -203,
         "y": 100,
         "z": -423
@@ -100,8 +100,8 @@ var markersDB={
         "z": -231
       },
       {
-        "hovertext": "BB Gherkin\n",
-        "text": "BB Gherkin\n",
+        "hovertext": "BBC 2\n",
+        "text": "BBC 2\n",
         "x": -316,
         "y": 63,
         "z": -320
@@ -169,8 +169,8 @@ var markersDB={
         "z": -231
       },
       {
-        "hovertext": "BB Gherkin\n",
-        "text": "BB Gherkin\n",
+        "hovertext": "BBC 2\n",
+        "text": "BBC 2\n",
         "x": -316,
         "y": 63,
         "z": -320
