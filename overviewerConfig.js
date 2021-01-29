@@ -29,7 +29,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": true,
-        "cacheTag": "1611603960",
+        "cacheTag": "1611898872",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -51,7 +51,7 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "guiness - overworld",
-            "last_rendertime": 1611603358,
+            "last_rendertime": 1611891229,
             "imgextension": "jpg",
             "isOverlay": false,
             "poititle": "Markers",
@@ -78,7 +78,7 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "guiness - overworld",
-            "last_rendertime": 1611603358,
+            "last_rendertime": 1611891229,
             "imgextension": "jpg",
             "isOverlay": false,
             "poititle": "Markers",
