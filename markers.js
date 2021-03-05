@@ -4,21 +4,21 @@ var markers={
       "checked": false,
       "createInfoWindow": true,
       "displayName": "Bases",
-      "groupName": "Bases5f51_0c01",
+      "groupName": "Bases2f51_1af0",
       "icon": "icons/marker_tower_red.png"
     },
     {
       "checked": false,
       "createInfoWindow": true,
       "displayName": "Towns",
-      "groupName": "Townsa0a7_0c01",
+      "groupName": "Townsd0a7_1af0",
       "icon": "icons/marker_town_red.png"
     },
     {
       "checked": false,
       "createInfoWindow": true,
       "displayName": "Builds",
-      "groupName": "Buildsa0b8_0c01",
+      "groupName": "Buildsd0b8_1af0",
       "icon": "icons/marker_factory.png"
     }
   ],
@@ -27,21 +27,21 @@ var markers={
       "checked": false,
       "createInfoWindow": true,
       "displayName": "Bases",
-      "groupName": "Bases5f51_bd6e",
+      "groupName": "Bases2f51_2b5c",
       "icon": "icons/marker_tower_red.png"
     },
     {
       "checked": false,
       "createInfoWindow": true,
       "displayName": "Towns",
-      "groupName": "Townsa0a7_bd6e",
+      "groupName": "Townsd0a7_2b5c",
       "icon": "icons/marker_town_red.png"
     },
     {
       "checked": false,
       "createInfoWindow": true,
       "displayName": "Builds",
-      "groupName": "Buildsa0b8_bd6e",
+      "groupName": "Buildsd0b8_2b5c",
       "icon": "icons/marker_factory.png"
     }
   ]

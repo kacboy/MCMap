@@ -1,5 +1,5 @@
 var markersDB={
-  "Bases5f51_0c01": {
+  "Bases2f51_1af0": {
     "created": false,
     "name": "Bases",
     "raw": [
@@ -40,7 +40,7 @@ var markersDB={
       }
     ]
   },
-  "Bases5f51_bd6e": {
+  "Bases2f51_2b5c": {
     "created": false,
     "name": "Bases",
     "raw": [
@@ -81,7 +81,7 @@ var markersDB={
       }
     ]
   },
-  "Buildsa0b8_0c01": {
+  "Buildsd0b8_1af0": {
     "created": false,
     "name": "Builds",
     "raw": [
@@ -128,11 +128,18 @@ var markersDB={
         "z": -189
       },
       {
-        "hovertext": "High Rise\n",
-        "text": "High Rise\n",
+        "hovertext": "Apartment A\n",
+        "text": "Apartment A\n",
         "x": -100,
         "y": 165,
         "z": -108
+      },
+      {
+        "hovertext": "Apartment B\n",
+        "text": "Apartment B\n",
+        "x": -50,
+        "y": 148,
+        "z": -470
       },
       {
         "hovertext": "Modern Home\n",
@@ -150,7 +157,7 @@ var markersDB={
       }
     ]
   },
-  "Buildsa0b8_bd6e": {
+  "Buildsd0b8_2b5c": {
     "created": false,
     "name": "Builds",
     "raw": [
@@ -197,11 +204,18 @@ var markersDB={
         "z": -189
       },
       {
-        "hovertext": "High Rise\n",
-        "text": "High Rise\n",
+        "hovertext": "Apartment A\n",
+        "text": "Apartment A\n",
         "x": -100,
         "y": 165,
         "z": -108
+      },
+      {
+        "hovertext": "Apartment B\n",
+        "text": "Apartment B\n",
+        "x": -50,
+        "y": 148,
+        "z": -470
       },
       {
         "hovertext": "Modern Home\n",
@@ -219,7 +233,7 @@ var markersDB={
       }
     ]
   },
-  "Townsa0a7_0c01": {
+  "Townsd0a7_1af0": {
     "created": false,
     "name": "Towns",
     "raw": [
@@ -253,7 +267,7 @@ var markersDB={
       }
     ]
   },
-  "Townsa0a7_bd6e": {
+  "Townsd0a7_2b5c": {
     "created": false,
     "name": "Towns",
     "raw": [
