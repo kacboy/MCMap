@@ -1,5 +1,5 @@
 var markersDB={
-  "Bases2f51_1af0": {
+  "Bases3f51_fbe9": {
     "created": false,
     "name": "Bases",
     "raw": [
@@ -40,7 +40,7 @@ var markersDB={
       }
     ]
   },
-  "Bases2f51_2b5c": {
+  "Bases3f51_fcff": {
     "created": false,
     "name": "Bases",
     "raw": [
@@ -81,7 +81,7 @@ var markersDB={
       }
     ]
   },
-  "Buildsd0b8_1af0": {
+  "Buildsc0b8_fbe9": {
     "created": false,
     "name": "Builds",
     "raw": [
@@ -128,15 +128,15 @@ var markersDB={
         "z": -189
       },
       {
-        "hovertext": "Apartment A\n",
-        "text": "Apartment A\n",
+        "hovertext": "Apartment Building A\n",
+        "text": "Apartment Building A\n",
         "x": -100,
         "y": 165,
         "z": -108
       },
       {
-        "hovertext": "Apartment B\n",
-        "text": "Apartment B\n",
+        "hovertext": "Apartment Building B\n",
+        "text": "Apartment Building B\n",
         "x": -50,
         "y": 148,
         "z": -470
@@ -157,7 +157,7 @@ var markersDB={
       }
     ]
   },
-  "Buildsd0b8_2b5c": {
+  "Buildsc0b8_fcff": {
     "created": false,
     "name": "Builds",
     "raw": [
@@ -204,15 +204,15 @@ var markersDB={
         "z": -189
       },
       {
-        "hovertext": "Apartment A\n",
-        "text": "Apartment A\n",
+        "hovertext": "Apartment Building A\n",
+        "text": "Apartment Building A\n",
         "x": -100,
         "y": 165,
         "z": -108
       },
       {
-        "hovertext": "Apartment B\n",
-        "text": "Apartment B\n",
+        "hovertext": "Apartment Building B\n",
+        "text": "Apartment Building B\n",
         "x": -50,
         "y": 148,
         "z": -470
@@ -233,7 +233,7 @@ var markersDB={
       }
     ]
   },
-  "Townsd0a7_1af0": {
+  "Townsc0a7_fbe9": {
     "created": false,
     "name": "Towns",
     "raw": [
@@ -259,15 +259,15 @@ var markersDB={
         "z": -1870
       },
       {
-        "hovertext": "Holy Rosary Cathedral\n",
-        "text": "Holy Rosary Cathedral\n",
+        "hovertext": "Quartz Cathedral\n",
+        "text": "Quartz Cathedral\n",
         "x": -720,
         "y": 80,
         "z": 230
       }
     ]
   },
-  "Townsd0a7_2b5c": {
+  "Townsc0a7_fcff": {
     "created": false,
     "name": "Towns",
     "raw": [
@@ -293,8 +293,8 @@ var markersDB={
         "z": -1870
       },
       {
-        "hovertext": "Holy Rosary Cathedral\n",
-        "text": "Holy Rosary Cathedral\n",
+        "hovertext": "Quartz Cathedral\n",
+        "text": "Quartz Cathedral\n",
         "x": -720,
         "y": 80,
         "z": 230
