@@ -5,10 +5,10 @@ var overviewerConfig = {
             "defaultMarker": "signpost.png",
             "signMarker": "signpost_icon.png",
             "bedMarker": "bed.png",
-            "spawnMarker": "icons/marker_home.png",
-            "spawnMarker2x": "icons/marker_home_2x.png",
-            "queryMarker": "icons/marker_location.png",
-            "queryMarker2x": "icons/marker_location_2x.png",
+            "spawnMarker": "markers/marker_home.png",
+            "spawnMarker2x": "markers/marker_home_2x.png",
+            "queryMarker": "markers/marker_location.png",
+            "queryMarker2x": "markers/marker_location_2x.png",
             "compass": {
                 "0": "compass_upper-left.png",
                 "1": "compass_upper-right.png",
@@ -28,8 +28,8 @@ var overviewerConfig = {
         "guiness - end"
     ],
     "map": {
-        "debug": true,
-        "cacheTag": "1615577277",
+        "debug": false,
+        "cacheTag": "1616438798",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -51,7 +51,7 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "guiness - overworld",
-            "last_rendertime": 1615576888,
+            "last_rendertime": 1616438310,
             "imgextension": "jpg",
             "isOverlay": false,
             "poititle": "Markers",
@@ -78,7 +78,7 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "guiness - overworld",
-            "last_rendertime": 1615576888,
+            "last_rendertime": 1616438310,
             "imgextension": "jpg",
             "isOverlay": false,
             "poititle": "Markers",
