@@ -1,5 +1,5 @@
 var markersDB={
-  "Bases3f51_fbe9": {
+  "Bases6fde_b831": {
     "created": false,
     "name": "Bases",
     "raw": [
@@ -40,7 +40,7 @@ var markersDB={
       }
     ]
   },
-  "Bases3f51_fcff": {
+  "Bases6fde_cfb5": {
     "created": false,
     "name": "Bases",
     "raw": [
@@ -81,7 +81,7 @@ var markersDB={
       }
     ]
   },
-  "Buildsc0b8_fbe9": {
+  "Builds901e_b831": {
     "created": false,
     "name": "Builds",
     "raw": [
@@ -154,10 +154,17 @@ var markersDB={
         "x": -443,
         "y": 146,
         "z": -59
+      },
+      {
+        "hovertext": "Goat Farm\n",
+        "text": "Goat Farm\n",
+        "x": 59,
+        "y": 125,
+        "z": 200
       }
     ]
   },
-  "Buildsc0b8_fcff": {
+  "Builds901e_cfb5": {
     "created": false,
     "name": "Builds",
     "raw": [
@@ -230,10 +237,17 @@ var markersDB={
         "x": -443,
         "y": 146,
         "z": -59
+      },
+      {
+        "hovertext": "Goat Farm\n",
+        "text": "Goat Farm\n",
+        "x": 59,
+        "y": 125,
+        "z": 200
       }
     ]
   },
-  "Townsc0a7_fbe9": {
+  "Towns9027_b831": {
     "created": false,
     "name": "Towns",
     "raw": [
@@ -267,7 +281,7 @@ var markersDB={
       }
     ]
   },
-  "Townsc0a7_fcff": {
+  "Towns9027_cfb5": {
     "created": false,
     "name": "Towns",
     "raw": [
