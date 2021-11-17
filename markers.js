@@ -4,7 +4,7 @@ var markers={
       "checked": false,
       "createInfoWindow": true,
       "displayName": "Bases",
-      "groupName": "Bases6fde_b831",
+      "groupName": "Bases9f2f_adaa",
       "icon": "icons/marker_tower_red.png",
       "showIconInLegend": false
     },
@@ -12,7 +12,7 @@ var markers={
       "checked": false,
       "createInfoWindow": true,
       "displayName": "Towns",
-      "groupName": "Towns9027_b831",
+      "groupName": "Towns60c9_adaa",
       "icon": "icons/marker_town_red.png",
       "showIconInLegend": false
     },
@@ -20,7 +20,7 @@ var markers={
       "checked": false,
       "createInfoWindow": true,
       "displayName": "Builds",
-      "groupName": "Builds901e_b831",
+      "groupName": "Builds60da_adaa",
       "icon": "icons/marker_factory.png",
       "showIconInLegend": false
     }
@@ -30,7 +30,7 @@ var markers={
       "checked": false,
       "createInfoWindow": true,
       "displayName": "Bases",
-      "groupName": "Bases6fde_cfb5",
+      "groupName": "Bases9f2f_9b52",
       "icon": "icons/marker_tower_red.png",
       "showIconInLegend": false
     },
@@ -38,7 +38,7 @@ var markers={
       "checked": false,
       "createInfoWindow": true,
       "displayName": "Towns",
-      "groupName": "Towns9027_cfb5",
+      "groupName": "Towns60c9_9b52",
       "icon": "icons/marker_town_red.png",
       "showIconInLegend": false
     },
@@ -46,7 +46,7 @@ var markers={
       "checked": false,
       "createInfoWindow": true,
       "displayName": "Builds",
-      "groupName": "Builds901e_cfb5",
+      "groupName": "Builds60da_9b52",
       "icon": "icons/marker_factory.png",
       "showIconInLegend": false
     }
