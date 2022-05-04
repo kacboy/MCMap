@@ -29,7 +29,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": false,
-        "cacheTag": "1637037510",
+        "cacheTag": "1651641421",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -51,20 +51,20 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "guiness - overworld",
-            "last_rendertime": 1637035245,
+            "last_rendertime": 1651640394,
             "imgextension": "jpg",
             "isOverlay": false,
             "poititle": "Markers",
             "showlocationmarker": true,
             "center": [
                 -167,
-                96,
+                160,
                 -190
             ],
             "minZoom": 0,
             "spawn": [
                 -167,
-                96,
+                160,
                 -190
             ],
             "north_direction": 0
@@ -78,20 +78,20 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "guiness - overworld",
-            "last_rendertime": 1637035245,
+            "last_rendertime": 1651640394,
             "imgextension": "jpg",
             "isOverlay": false,
             "poititle": "Markers",
             "showlocationmarker": true,
             "center": [
                 -167,
-                96,
+                160,
                 -190
             ],
             "minZoom": 0,
             "spawn": [
                 -167,
-                96,
+                160,
                 -190
             ],
             "north_direction": 3
@@ -112,7 +112,7 @@ var overviewerConfig = {
             "showlocationmarker": true,
             "center": [
                 -167,
-                96,
+                160,
                 -190
             ],
             "minZoom": 0,
@@ -135,7 +135,7 @@ var overviewerConfig = {
             "showlocationmarker": true,
             "center": [
                 -167,
-                96,
+                160,
                 -190
             ],
             "minZoom": 0,
