@@ -29,7 +29,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": false,
-        "cacheTag": "1674801886",
+        "cacheTag": "1692078619",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -44,14 +44,14 @@ var overviewerConfig = {
     "tilesets": [
         {
             "name": "NE Angle",
-            "zoomLevels": 8,
+            "zoomLevels": 9,
             "defaultZoom": 1,
-            "maxZoom": 8,
+            "maxZoom": 9,
             "path": "normalrender1",
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "guiness - overworld",
-            "last_rendertime": 1674801054,
+            "last_rendertime": 1691571408,
             "imgextension": "jpg",
             "isOverlay": false,
             "poititle": "Markers",
@@ -61,6 +61,7 @@ var overviewerConfig = {
                 160,
                 -190
             ],
+            "lastrenderversion": 2,
             "minZoom": 0,
             "spawn": [
                 -167,
@@ -78,7 +79,7 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "guiness - overworld",
-            "last_rendertime": 1674801054,
+            "last_rendertime": 1691571408,
             "imgextension": "jpg",
             "isOverlay": false,
             "poititle": "Markers",
@@ -88,6 +89,7 @@ var overviewerConfig = {
                 160,
                 -190
             ],
+            "lastrenderversion": 2,
             "minZoom": 0,
             "spawn": [
                 -167,
@@ -115,6 +117,7 @@ var overviewerConfig = {
                 160,
                 -190
             ],
+            "lastrenderversion": 2,
             "minZoom": 0,
             "spawn": false,
             "north_direction": 0
@@ -138,6 +141,7 @@ var overviewerConfig = {
                 160,
                 -190
             ],
+            "lastrenderversion": 2,
             "minZoom": 0,
             "spawn": false,
             "north_direction": 0
