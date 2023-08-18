@@ -23,13 +23,11 @@ var overviewerConfig = {
         "LOWERRIGHT": 2
     },
     "worlds": [
-        "guiness - overworld",
-        "guiness - nether",
-        "guiness - end"
+        "guiness"
     ],
     "map": {
         "debug": false,
-        "cacheTag": "1692342013",
+        "cacheTag": "1692371197",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -50,7 +48,7 @@ var overviewerConfig = {
             "path": "normalrender1",
             "base": "",
             "bgcolor": "#1a1a1a",
-            "world": "guiness - overworld",
+            "world": "guiness",
             "last_rendertime": 1692176136,
             "imgextension": "jpg",
             "isOverlay": false,
@@ -58,14 +56,14 @@ var overviewerConfig = {
             "showlocationmarker": true,
             "center": [
                 -167,
-                82,
+                160,
                 -190
             ],
             "lastrenderversion": 2,
             "minZoom": 0,
             "spawn": [
                 -167,
-                82,
+                160,
                 -190
             ],
             "north_direction": 0
@@ -78,7 +76,7 @@ var overviewerConfig = {
             "path": "normalrender2",
             "base": "",
             "bgcolor": "#1a1a1a",
-            "world": "guiness - overworld",
+            "world": "guiness",
             "last_rendertime": 1692176136,
             "imgextension": "jpg",
             "isOverlay": false,
@@ -86,14 +84,14 @@ var overviewerConfig = {
             "showlocationmarker": true,
             "center": [
                 -167,
-                82,
+                160,
                 -190
             ],
             "lastrenderversion": 2,
             "minZoom": 0,
             "spawn": [
                 -167,
-                82,
+                160,
                 -190
             ],
             "north_direction": 3
@@ -106,7 +104,7 @@ var overviewerConfig = {
             "path": "netherrender",
             "base": "",
             "bgcolor": "#1a1a1a",
-            "world": "guiness - nether",
+            "world": "guiness",
             "last_rendertime": 1623622511,
             "imgextension": "jpg",
             "isOverlay": false,
@@ -114,7 +112,7 @@ var overviewerConfig = {
             "showlocationmarker": true,
             "center": [
                 -167,
-                82,
+                160,
                 -190
             ],
             "lastrenderversion": 2,
@@ -130,7 +128,7 @@ var overviewerConfig = {
             "path": "endrender",
             "base": "",
             "bgcolor": "#1a1a1a",
-            "world": "guiness - end",
+            "world": "guiness",
             "last_rendertime": 1620958584,
             "imgextension": "jpg",
             "isOverlay": false,
@@ -138,7 +136,7 @@ var overviewerConfig = {
             "showlocationmarker": true,
             "center": [
                 -167,
-                82,
+                160,
                 -190
             ],
             "lastrenderversion": 2,
