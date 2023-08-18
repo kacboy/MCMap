@@ -29,7 +29,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": false,
-        "cacheTag": "1692078619",
+        "cacheTag": "1692342013",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -51,21 +51,21 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "guiness - overworld",
-            "last_rendertime": 1691571408,
+            "last_rendertime": 1692176136,
             "imgextension": "jpg",
             "isOverlay": false,
             "poititle": "Markers",
             "showlocationmarker": true,
             "center": [
                 -167,
-                160,
+                82,
                 -190
             ],
             "lastrenderversion": 2,
             "minZoom": 0,
             "spawn": [
                 -167,
-                160,
+                82,
                 -190
             ],
             "north_direction": 0
@@ -79,21 +79,21 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "guiness - overworld",
-            "last_rendertime": 1691571408,
+            "last_rendertime": 1692176136,
             "imgextension": "jpg",
             "isOverlay": false,
             "poititle": "Markers",
             "showlocationmarker": true,
             "center": [
                 -167,
-                160,
+                82,
                 -190
             ],
             "lastrenderversion": 2,
             "minZoom": 0,
             "spawn": [
                 -167,
-                160,
+                82,
                 -190
             ],
             "north_direction": 3
@@ -114,7 +114,7 @@ var overviewerConfig = {
             "showlocationmarker": true,
             "center": [
                 -167,
-                160,
+                82,
                 -190
             ],
             "lastrenderversion": 2,
@@ -138,7 +138,7 @@ var overviewerConfig = {
             "showlocationmarker": true,
             "center": [
                 -167,
-                160,
+                82,
                 -190
             ],
             "lastrenderversion": 2,
