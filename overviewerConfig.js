@@ -29,7 +29,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": false,
-        "cacheTag": "1692938614",
+        "cacheTag": "1692941248",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -99,7 +99,7 @@ var overviewerConfig = {
             "north_direction": 3
         },
         {
-            "name": "NE Angle",
+            "name": "Nether",
             "zoomLevels": 6,
             "defaultZoom": 1,
             "maxZoom": 6,
@@ -123,7 +123,7 @@ var overviewerConfig = {
             "north_direction": 0
         },
         {
-            "name": "NE Angle",
+            "name": "The End",
             "zoomLevels": 8,
             "defaultZoom": 1,
             "maxZoom": 8,
