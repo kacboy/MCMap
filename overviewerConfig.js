@@ -23,11 +23,13 @@ var overviewerConfig = {
         "LOWERRIGHT": 2
     },
     "worlds": [
-        "guiness"
+        "guiness",
+        "guiness-nether",
+        "guiness-end"
     ],
     "map": {
         "debug": false,
-        "cacheTag": "1692371197",
+        "cacheTag": "1692938614",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -49,7 +51,7 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "guiness",
-            "last_rendertime": 1692176136,
+            "last_rendertime": 1692781116,
             "imgextension": "jpg",
             "isOverlay": false,
             "poititle": "Markers",
@@ -77,7 +79,7 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "guiness",
-            "last_rendertime": 1692176136,
+            "last_rendertime": 1692781116,
             "imgextension": "jpg",
             "isOverlay": false,
             "poititle": "Markers",
@@ -104,15 +106,15 @@ var overviewerConfig = {
             "path": "netherrender",
             "base": "",
             "bgcolor": "#1a1a1a",
-            "world": "guiness",
-            "last_rendertime": 1623622511,
+            "world": "guiness-nether",
+            "last_rendertime": 1692781116,
             "imgextension": "jpg",
             "isOverlay": false,
             "poititle": "Markers",
             "showlocationmarker": true,
             "center": [
                 -167,
-                160,
+                112,
                 -190
             ],
             "lastrenderversion": 2,
@@ -128,15 +130,15 @@ var overviewerConfig = {
             "path": "endrender",
             "base": "",
             "bgcolor": "#1a1a1a",
-            "world": "guiness",
-            "last_rendertime": 1620958584,
+            "world": "guiness-end",
+            "last_rendertime": 1692593901,
             "imgextension": "jpg",
             "isOverlay": false,
             "poititle": "Markers",
             "showlocationmarker": true,
             "center": [
                 -167,
-                160,
+                320,
                 -190
             ],
             "lastrenderversion": 2,
